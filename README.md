@@ -1,1 +1,1 @@
-# AR_chess_game
+# AR_Art_gallery
